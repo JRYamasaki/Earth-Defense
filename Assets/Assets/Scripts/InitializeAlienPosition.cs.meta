@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 035f41813387e284cb00c01c2b96a149
+timeCreated: 1514420287
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - alien1: {fileID: 1177920495297794, guid: 1dbaed3442dcab24ea8a6ebcd9407c6f, type: 2}
+  - alien2: {fileID: 1221277253350758, guid: 798bddac4b24982499d857f0eb85dd9f, type: 2}
+  - alien3: {fileID: 1015307085206706, guid: 429ccb43102aa6a4c9e6c72caaae9b24, type: 2}
+  - alienArea: {fileID: 1049947295242142, guid: 97ee4f97e44a21a4e8516c70d7cc791a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
